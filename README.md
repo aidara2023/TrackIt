@@ -25,6 +25,11 @@ rails s
 
 [Wireframe](https://www.figma.com/file/7I43VumiFxgfyuX1jOWXCF/TrackIt-Wireframe?type=design&node-id=0%3A1&mode=design&t=UQKTEp0Q0lUuJ1lR-1)
 
+## Depot github
+
+
+[github](https://github.com/aidara2023/TrackIt.git)
+
 
 # ERD
 <img src= "document/TrackIt.drawio.png">
