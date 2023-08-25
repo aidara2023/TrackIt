@@ -28,7 +28,7 @@ rails s
 ## Depot github
 
 
-[github](https://github.com/aidara2023/TrackIt.git)
+[gitclone](https://github.com/aidara2023/TrackIt.git)
 
 
 # ERD
